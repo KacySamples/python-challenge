@@ -1,0 +1,12 @@
+PyBank Analysis
+
+[Running] python -u "c:\Users\sampl\OneDrive\Desktop\Data_Analytics\Week3Python\Module3Challenge\python-challenge\PyBank\main.py"
+Financial Analysis
+------------------
+Total Months: 86
+Total: $22564198
+Average Change: $-8311.11
+Greatest Increase in Profits: Aug-16 ($1862002)
+Greatest Decrease in Profits: Feb-14 ($-1825558)
+
+[Done] exited with code=0 in 0.394 seconds
