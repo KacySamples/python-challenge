@@ -1,7 +1,8 @@
 import csv
+import os #did not add this the first time....
 
-# File path, yes I am aware this is incredibly long. But that's where I want to put it. 
-file_path = r"C:\Users\sampl\OneDrive\Desktop\Data_Analytics\Week3Python\Module3Challenge\python-challenge\PyBank\Resources\budget_data.csv"
+# File path
+file_path = os.path.join("Resources", "budget_data.csv")
 
 # Initialize variables
 total_months = 0

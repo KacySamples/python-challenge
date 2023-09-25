@@ -1,7 +1,8 @@
 import csv
+import os
 
-# File Path. Yes, it's very long. But srsly tho, you'll have to use your own file path anyway, righ? 
-file_path = r"C:\Users\sampl\OneDrive\Desktop\Data_Analytics\Week3Python\Module3Challenge\python-challenge\PyPoll\Resources\election_data.csv"
+# File Path
+file_path = file_path = os.path.join("Resources", "election_data.csv")
 
 # Variables
 total_votes = 0
