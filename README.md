@@ -1,6 +1,7 @@
 # python-challenge
-# python-VeryChallenge
-# python-MuchDifficult
+
+hashtag python-VeryChallenge
+hashtag python-MuchDifficult
 
 Kacy Samples
 
